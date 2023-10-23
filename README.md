@@ -9,6 +9,6 @@ To load an ID to emulator memory: "hf iclass eload -f {file}"
 To use the PPTT to simulate an ID: "hf iclass sim"
 To write an ID from a .bin file to ID: "hf iclass restore -f {file} --first 6 --last 18 --ki 0"  
 # Physical Devices
-Raspberry Pi 4b+ 
-Proxmark3 Easy
-screen?
+Raspberry Pi 4b+  
+Proxmark3 Easy  
+screen?  
